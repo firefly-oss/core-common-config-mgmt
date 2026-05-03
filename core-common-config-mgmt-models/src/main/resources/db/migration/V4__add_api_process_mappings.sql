@@ -4,7 +4,7 @@
 -- This migration adds support for the Firefly Plugin Architecture, enabling
 -- dynamic resolution of which process plugin handles each API operation.
 --
--- Copyright 2025 Firefly Software Solutions Inc
+-- Copyright 2025 Firefly Software Foundation
 -- Licensed under the Apache License, Version 2.0
 -- =============================================================================
 
