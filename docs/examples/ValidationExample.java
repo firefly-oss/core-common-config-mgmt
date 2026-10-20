@@ -1,7 +1,7 @@
-package com.firefly.common.config.examples;
+package io.fireflysoftware.common.config.examples;
 
-import com.firefly.common.config.interfaces.dtos.EnvironmentConfigDTO;
-import com.firefly.common.config.interfaces.dtos.ProviderParameterDTO;
+import io.fireflysoftware.common.config.interfaces.dtos.EnvironmentConfigDTO;
+import io.fireflysoftware.common.config.interfaces.dtos.ProviderParameterDTO;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.Validation;
 import jakarta.validation.Validator;

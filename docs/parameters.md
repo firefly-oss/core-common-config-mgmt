@@ -765,7 +765,7 @@ All parameter changes are **logged for audit purposes**:
 public class ParameterAuditAspect {
 
     @AfterReturning(
-        pointcut = "execution(* com.firefly.common.config.core.services.ProviderParameterService.create*(..))",
+        pointcut = "execution(* io.fireflysoftware.common.config.core.services.ProviderParameterService.create*(..))",
         returning = "result"
     )
     public void auditCreate(JoinPoint joinPoint, Object result) {
@@ -780,7 +780,7 @@ public class ParameterAuditAspect {
     }
 
     @AfterReturning(
-        pointcut = "execution(* com.firefly.common.config.core.services.ProviderParameterService.update*(..))",
+        pointcut = "execution(* io.fireflysoftware.common.config.core.services.ProviderParameterService.update*(..))",
         returning = "result"
     )
     public void auditUpdate(JoinPoint joinPoint, Object result) {

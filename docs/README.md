@@ -1372,7 +1372,7 @@ server:
 
 logging:
   level:
-    com.firefly: DEBUG
+    io.fireflysoftware: DEBUG
     org.springframework.r2dbc: DEBUG
     org.springframework.web: INFO
   pattern:
