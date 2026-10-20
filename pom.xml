@@ -12,6 +12,7 @@
     </parent>
 
     <artifactId>core-common-config-mgmt</artifactId>
+    <name>core-common-config-mgmt</name>
     <packaging>pom</packaging>
     <modules>
         <module>core-common-config-mgmt-core</module>

@@ -10,6 +10,7 @@
     </parent>
 
     <artifactId>core-common-config-mgmt-models</artifactId>
+    <name>core-common-config-mgmt-models</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
