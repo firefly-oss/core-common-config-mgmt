@@ -7,7 +7,7 @@
     <parent>
         <groupId>io.fireflysoftware</groupId>
         <artifactId>firefly-parent</artifactId>
-        <version>26.10.4</version>
+        <version>26.10.5</version>
         <relativePath/>
     </parent>
 
@@ -24,7 +24,7 @@
 
     <properties>
         <core-common-config-mgmt.version>
-            26.10.4
+            26.10.5
         </core-common-config-mgmt.version>
         <java.version>25</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
