@@ -35,6 +35,8 @@ The Firefly Configuration Management Service is the **central configuration hub*
 - **Custom Branding**: Visual customization per tenant
 - **Secure Credential Management**: Integration with `core-common-security-vault` for secure storage of API keys, passwords, and secrets
 
+For native institution grants, governed tenant/status eligibility, current observations, and deployment prerequisites, see [Institution authority](docs/institution-authority.md).
+
 ## Quick Start
 
 ### Prerequisites
